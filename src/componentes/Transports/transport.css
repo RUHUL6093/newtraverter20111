@@ -1,0 +1,14 @@
+.items {
+  height: 800px;
+  width: 150px;
+  padding: 20px;
+  border: 1px solid black;
+  margin-left: 10px;
+  display: inline;
+}
+.transport {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-left: 300px;
+  background-color: 00;
+}
